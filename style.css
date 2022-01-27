@@ -1,0 +1,14 @@
+body{
+    background-image:url(/HTML/Img/BG.jpg);
+}
+
+
+#title{
+    color:darkturquoise;
+    font-family:"cambria";
+    font-size: 35px;
+}
+.contatos
+{
+    font-size: 17px;
+}
