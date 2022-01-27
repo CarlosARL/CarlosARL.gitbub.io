@@ -1,5 +1,9 @@
 body{
-    background-image:url(/HTML/Img/BG.jpg);
+    background-color:rgb(145, 145, 214);
+    background-image:url(/Img/kisspng-desktop-wallpaper-portable-network-graphics-graphi-rewards-and-recognition-background-3-92-timehd-5bd36f9043d4a1.4895516215405833122778.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
 }
 
 
@@ -10,5 +14,8 @@ body{
 }
 .contatos
 {
-    font-size: 17px;
+    font-size:17px;
+}
+.foto{
+ background-color: #fcfcfc;
 }
