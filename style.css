@@ -1,6 +1,6 @@
 body{
     background-color:rgb(145, 145, 214);
-    background-image:url(/Img/kisspng-desktop-wallpaper-portable-network-graphics-graphi-rewards-and-recognition-background-3-92-timehd-5bd36f9043d4a1.4895516215405833122778.png);
+    background-image:url(/Img/bg.jpg);
     background-size: 100%;
     border-radius: 15px;
     height: 260px;   
@@ -25,10 +25,10 @@ body{
 }
 .Foto{
 
- background-image: url(/Img/CarlosLosada.png);
- background: rgb(0, 0, 0);
+ background-image: url(C:\Users\Carlos\Documents\Site\HTML\Img\CarlosLosada.png);
+ background: rgb(255, 255, 255);
  padding: 2px;
- border:3px solid rgb(104, 106, 107);
+ border:3px solid rgb(34, 91, 119);
  margin: 10px;
 }
 a
