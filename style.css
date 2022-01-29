@@ -14,6 +14,7 @@ body{
     color:darkturquoise;
     font-family:"cambria";
     font-size: 35px;
+
 }
 .contatos
 {
@@ -22,6 +23,8 @@ body{
     border: 7px solid rgb(28, 102, 151);
     margin: 3px;
     font-size:17px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 .Foto{
 
@@ -30,6 +33,7 @@ body{
  padding: 2px;
  border:3px solid rgb(34, 91, 119);
  margin: 10px;
+ border-radius: 20px;
 }
 a
 {
